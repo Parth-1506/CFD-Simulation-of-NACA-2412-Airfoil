@@ -8,9 +8,7 @@ This project involves Computational Fluid Dynamics (CFD) and Static Structural A
 
 * ANSYS Fluent (for CFD simulation)
 * ANSYS Mechanical (for static structural analysis)
-* ANSYS Meshing
-* Post-processing tools for contour and graph visualization
-
+* 
 ---
 
 ## 📌 Project Objectives
